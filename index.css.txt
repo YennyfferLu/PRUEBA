@@ -2,3 +2,8 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #444;
 }
+
+.btn{
+    color: #fjflf;
+    border: 4px;
+}
